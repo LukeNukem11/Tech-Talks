@@ -32,7 +32,7 @@ Tech Talks is a tech blog website that follows the MVC (Model-View-Controller) a
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/tech-talks.git`
+1. Clone the repository: `git clone https://github.com/Luke-Nukem11/tech-talks`
 2. Navigate to the project directory: `cd tech-talks`
 3. Install the dependencies: `npm install`
 4. Create a `.env` file and provide the necessary environment variables (e.g., SQL Server connection details, session secret).
